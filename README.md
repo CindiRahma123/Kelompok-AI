@@ -1,1 +1,10 @@
 # Kelompok-AI
+Anastasya Siburian (09011281924079)
+Cindi Rahma Sari (09011281924151)
+CIndy Anjelina Baringbing (09011281924067)
+Endy Afri Wildanu (09011281924076)
+M. Farhan Hilman (09011281924148)
+M. Harits (09011281924058)
+Naufal Azel Muzzakiy (09011281924065)
+Rizki Amalia (09011281924156)
+Yanita Yuristia Br Tarigan (09011281924157)
