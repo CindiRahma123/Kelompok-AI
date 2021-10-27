@@ -9,3 +9,5 @@
 8. Naufal Azel Muzzakiy (09011281924065)
 9. Rizki Amalia (09011281924156)
 10. Yanita Yuristia Br Tarigan (09011281924157)
+
+referensi : https://analyticsindiamag.com/a-tutorial-on-particle-swarm-optimization-in-python/ 
